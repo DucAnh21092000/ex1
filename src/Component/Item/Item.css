@@ -1,0 +1,19 @@
+.input{
+    background-repeat: no-repeat;
+    border: none;
+    padding: 10px 30px;
+    color:white;
+}
+.user-name{
+    background: url("https://p.w3layouts.com/demos/aug-2016/19-08-2016/classy_login_form/web/images/m.png")no-repeat 0px 5px;
+}
+.input::placeholder{
+    color: white;
+}
+.border-bottom{
+    border-bottom: 1px solid white;
+}
+.password{
+    background: url("https://p.w3layouts.com/demos/aug-2016/19-08-2016/classy_login_form/web/images/l.png");
+    background-repeat: no-repeat;
+}
